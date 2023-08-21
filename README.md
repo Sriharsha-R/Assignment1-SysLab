@@ -1,11 +1,11 @@
-# Assignment1-SysLab
+# CS 558 - Computer Systems Lab (Jan - May 2023)
 ## Group 18
 
 v.subramanian@iitg.ac.in - Subramanian V<br>
 r.sri@iitg.ac.in - Sri Harsha R<br>
 d.neha@iitg.ac.in - Neha Dhuttargaon
 
-## Error Detection using Cyclic Redundancy Code (Using CRC-8)
+## Assignment 1 : Error Detection using Cyclic Redundancy Code (Using CRC-8)
 In this assignment, your aim will be to implement a simple Stop-and-Wait based data link layer level logical channel between two nodes A and B using socket API, where node A and node B are the client and the server for the socket interface respectively. Data link layer protocol should provide the following
 Error handling technique in Data Link Layer.
 - Error Detection using Cyclic Redundancy Code (using CRC-8 as generator polynomial,
