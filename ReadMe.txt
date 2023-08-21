@@ -27,7 +27,7 @@ The connection to the server should be gracefully terminated. When the server is
 control C, the server should also gracefully release the open socket (Hint: requires use of a signal
 handler). *Please make necessary and valid assumptions whenever required. 
 
-Step To Run :
+##Step To Run :
 
 1. Compile server.c and client.c with crc.c in CRC directory.
    gcc server.c CRC/crc.c -o server
