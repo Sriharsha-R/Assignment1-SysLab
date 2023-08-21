@@ -1,4 +1,4 @@
-# CS 558 - Computer Systems Lab (Jan - May 2023)
+# CS 558 - Computer Systems Lab
 ## Group 18
 
 v.subramanian@iitg.ac.in - Subramanian V<br>
