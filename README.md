@@ -23,7 +23,7 @@ multiple clients and serves all of them concurrently.
 You should accept the IP Address and Port number from the command line (Don't use a hard-coded port
 number). Prototype for command line is as follows:
 
-## Prototypes for Client and Server
+### Prototypes for Client and Server
 **Client**: \<executable code>\<Server IP Address>\<Server Port number> <br>
 **Server**: \<executable code>\<Server Port number>
 
